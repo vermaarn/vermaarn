@@ -3,7 +3,7 @@
 I'm a Computer Science student at the University of Toronto 🦫!
 - 🤖 I'm currently doing some research in Information Visualization / HCI
 - 🥅 Currently interested in Information Visualization / HCI too!
-- 🌱 I’m also learning D3 + Software Engineering Techniques
+- 🌱 I’m learning new D3 + Software Engineering techniques
 - 🕶️ One day, I'll update my website @ [arnavverma.com](https://arnavverma.com)
 
 <!--
