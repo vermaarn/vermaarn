@@ -1,6 +1,6 @@
 ### Hello there, I'm Arnav 👋
 
-I'm a Computer Science student at the University of Toronto 🇨🇦!
+I'm a Computer Science student at the University of Toronto 🦫!
 - 🤖 I'm currently doing some research in Information Visualization / HCI
 - 🥅 Currently interested in Information Visualization / HCI too!
 - 🌱 I’m also learning D3 + Software Engineering Techniques
