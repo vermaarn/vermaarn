@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Toronto 🦫!
 - 🤖 I'm currently doing some research in Information Visualization / HCI
 - 🥅 Currently interested in Information Visualization / HCI too!
 - 🌱 I’m learning new D3 + Software Engineering techniques
-- 🕶️ One day, I'll update my website @ [arnavverma.com](https://arnavverma.com)
+- 🕶️ One day, I'll update my website @ [www.arnavverma.com](https://www.arnavverma.com)
 
 <!--
 **vermaarn/vermaarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
