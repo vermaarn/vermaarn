@@ -1,7 +1,7 @@
 ### Hello there, I'm Arnav 👋
 
 I'm a Computer Science student at the University of Toronto 🦫!
-- 🤖 I'm currently doing research in InfoVis/HCI. I'm interested in understanding, utilizing and influencing reasoning based on visualizations and stimuli!
+- 🤖 For my research I'm interested in understanding, utilizing and influencing reasoning based on visualizations, stimuli, and software!
 - 🥅 Currently interested in Information Visualization / HCI too!
 - 🌱 I’m learning new Visualization + Software Engineering techniques
 - 🕶️ One day, I'll update my website @ [www.arnavverma.com](https://www.arnavverma.com)
