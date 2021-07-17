@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the University of Toronto 🦫!
 - 🤖 For my research I'm interested in understanding, utilizing and influencing reasoning based on visualizations, stimuli, and software!
-- 🥅 Currently interested in Information Visualization / HCI too!
+- 🥅 I'm really interested in Information Visualization, Human-Computer Interaction, Cognitive Science, Software Engineering, and Machine Learning too!
 - 🌱 I’m learning new Visualization + Software Engineering techniques
 - 🕶️ One day, I'll update my website @ [www.arnavverma.com](https://www.arnavverma.com)
 
