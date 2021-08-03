@@ -1,6 +1,6 @@
 ### Hello there, I'm Arnav 👋
 
-I'm a Computer Science student at the University of Toronto 🦫!
+I'm a Computer Science student at the University of Toronto!
 - 🤖 For my research I'm interested in understanding, utilizing and influencing reasoning based on visualizations, stimuli, and software!
 - 🥅 Some of my interests are as follows: Information Visualization, Human-Computer Interaction, Cognitive Science, Software Engineering, and Machine Learning too!
 - 🌱 I’m learning new Visualization + Software Engineering techniques
