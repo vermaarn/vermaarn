@@ -2,6 +2,8 @@
 
 I'm a Computer Science student at the University of Toronto!
 - 🤖 For my research I'm interested in understanding, utilizing and influencing cognitive processes such as reasoning and perception based on visualizations, stimuli, and software!
+Currently I work on 3 main research topics: appearance-based gaze estimation, visualizing empathetic judgements, explaining explorable explanations. 
+
 - 🥅 Some of my interests are as follows: Information Visualization, Human-Computer Interaction, Cognitive Science, Software Engineering, and Machine Learning too!
 - 🌱 I’m learning new Visualization + Software Engineering techniques
 - 🕶️ My website @ [www.arnavverma.com](https://www.arnavverma.com)
