@@ -5,10 +5,7 @@ Currently I work on 3 main research topics: appearance-based gaze estimation, vi
 
 Through my research I hope integrate concepts in multiple domains to build interactive technologies. Through the aid of solutions from software engineering and machine learning, I try utilize principles in HCI & cogintive psychology to explore the design space visualizations and interactive tools. 
 
-- 🤖 For my research I'm interested in understanding, utilizing and influencing cognitive processes such as reasoning and perception based on visualizations, stimuli, machine learning models, and software tools!
-- 🥅 Some of my interests are as follows: Information Visualization, Human-Computer Interaction, Cognitive Science, Software Engineering, and Machine Learning too!
-- 🌱 I’m learning new Visualization + Software Engineering techniques
-- 🕶️ My website @ [www.arnavverma.com](https://www.arnavverma.com)
+🤖 My website @ [www.arnavverma.com](https://www.arnavverma.com)
 
 <!--
 **vermaarn/vermaarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
