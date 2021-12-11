@@ -3,6 +3,8 @@
 I'm a MSc Computer Science student at the University of Toronto!
 Currently I work on 3 main research topics: appearance-based gaze estimation, visualizing empathetic judgements, explaining explorable explanations. 
 
+Through my research I hope integrate concepts in multiple domains to build interactive technologies. I try utilize principles in hci and cogintive psychology through the aid of software engineering and machine learning to explore the design space visualizations and tools. 
+
 - 🤖 For my research I'm interested in understanding, utilizing and influencing cognitive processes such as reasoning and perception based on visualizations, stimuli, machine learning models, and software tools!
 - 🥅 Some of my interests are as follows: Information Visualization, Human-Computer Interaction, Cognitive Science, Software Engineering, and Machine Learning too!
 - 🌱 I’m learning new Visualization + Software Engineering techniques
