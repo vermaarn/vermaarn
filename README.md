@@ -1,6 +1,6 @@
 ### Hello there, I'm Arnav 👋
 
-I'm a Computer Science student at the University of Toronto!
+I'm a MSc Computer Science student at the University of Toronto!
 Currently I work on 3 main research topics: appearance-based gaze estimation, visualizing empathetic judgements, explaining explorable explanations. 
 
 - 🤖 For my research I'm interested in understanding, utilizing and influencing cognitive processes such as reasoning and perception based on visualizations, stimuli, machine learning models, and software tools!
