@@ -3,7 +3,7 @@
 I'm a MSc Computer Science student at the University of Toronto!
 Currently I work on 3 main research topics: appearance-based gaze estimation, visualizing empathetic judgements, explaining explorable explanations. 
 
-Through my research I hope integrate concepts in multiple domains to build interactive technologies. Through the aid of solutions from software engineering and machine learning, I try utilize principles in HCI & cognitive psychology to explore the design space of visualizations and interactive tools. 
+Through my research I hope integrate concepts in multiple domains to build interactive technologies. Through techinques from software engineering and machine learning, I try utilize principles in HCI & cognitive psychology to explore the design space of visualizations and interactive tools. 
 
 🤖 My website @ [www.arnavverma.com](https://www.arnavverma.com)
 
