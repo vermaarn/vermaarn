@@ -2,7 +2,10 @@
 
 I'm a MSc Computer Science student at the University of Toronto at the Dynamic Graphics Project Lab!
 
-Currently, I work on 3 main research projects: appearance-based gaze estimation, visualizing empathetic judgements, explaining explorable explanations. 
+Currently, I work on 3 main research projects: 
+- appearance-based gaze estimation 
+- visualizing empathetic judgements 
+- explaining explorable explanations 
 
 Through my research I hope integrate concepts in multiple domains to build interactive technologies. Through techinques from software engineering and machine learning, I try utilize principles in InfoVis, HCI & cognitive psychology to explore the design space of visualizations and interactive tools. 
 
