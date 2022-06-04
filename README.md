@@ -7,7 +7,9 @@ Currently, I work on 3 main research projects:
 - visualizing empathetic judgements 
 - explaining explorable explanations 
 
-Through my research I hope integrate concepts in multiple domains to build interactive technologies. Through techinques from software engineering and machine learning, I try utilize principles in InfoVis, HCI & cognitive psychology to explore the design space of visualizations and interactive tools. 
+In my research, I try to gain a deeper, and more formal understanding of cognitive processes in interactive visual design at the Dynamic Graphic Project lab at UofT.
+
+I also work as a software developer for Toronto Early Cognition Lab.
 
 🤖 My website @ [www.arnavverma.com](https://www.arnavverma.com)
 
