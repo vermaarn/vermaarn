@@ -9,7 +9,7 @@ I also work as a software developer for Toronto Early Cognition Lab.
 Currently, I work on 3 main research projects: 
 - appearance-based gaze estimation 
 - visualizing empathetic judgements 
-- explaining explorable explanations 
+- the role explorable explanations in learning 
 
 🤖 My website @ [www.arnavverma.com](https://www.arnavverma.com)
 
