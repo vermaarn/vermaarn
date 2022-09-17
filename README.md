@@ -6,11 +6,6 @@ In my research, I try to gain a deeper, and more formal understanding of cogniti
 
 I also work as a software developer for Toronto Early Cognition Lab, also at UofT.
 
-Currently, I work on 3 main research projects: 
-- appearance-based gaze estimation 
-- visualizing empathetic judgements 
-- the role explorable explanations in learning 
-
 🤖 My website @ [www.arnavverma.com](https://www.arnavverma.com)
 
 <!--
