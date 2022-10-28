@@ -2,7 +2,8 @@
 
 I'm a MSc Computer Science student at the University of Toronto!
 
-In my research, I try to gain a deeper, and more formal understanding of cognitive processes in interactive and visual design at the Dynamic Graphic Project lab at UofT.
+In my research, I work on improving reasoning and learning through interactive graphics.
+I try build cognitive theories which are verified by interacting with computer graphics and visualizations.
 
 I also work as a software developer for Toronto Early Cognition Lab, also at UofT.
 
