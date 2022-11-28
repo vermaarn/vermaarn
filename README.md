@@ -2,8 +2,7 @@
 
 I'm a MSc Computer Science student at the University of Toronto!
 
-In my research, I work on improving reasoning and learning through interactive graphics.
-I try build cognitive theories which are verified by interacting with computer graphics and visualizations.
+In my research, I try to understanding human cognition through interactive graphics.
 
 I also work as a software developer for Toronto Early Cognition Lab, also at UofT.
 
