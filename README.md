@@ -1,6 +1,6 @@
 ### Hello there, I'm Arnav 👋
 
-I'm a MSc Computer Science student at the University of Toronto!
+I am currently a lab manager at the Cognitive Tools Lab. I was a MSc Computer Science student at the University of Toronto!
 
 In my research, I try to understanding human cognition through interactive graphics.
 
