@@ -1,6 +1,8 @@
 ### Hello there, I'm Arnav 👋
 
-I am currently a lab manager at the Cognitive Tools Lab. I was a MSc Computer Science student at the University of Toronto!
+I am currently a PhD student at MIT CSAIL primarly in MIT Visualization Group. 
+
+I was previously a lab manager at the Cognitive Tools Lab. I was also BS/MS student in Computer Science at the University of Toronto!
 
 In my research, I try to understanding human cognition through interactive graphics.
 
